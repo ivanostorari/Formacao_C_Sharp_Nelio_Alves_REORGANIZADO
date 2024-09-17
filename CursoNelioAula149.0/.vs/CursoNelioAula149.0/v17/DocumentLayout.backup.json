@@ -22,16 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PrintServiceString.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula149.0\\PrintServiceString.cs",
               "RelativeDocumentMoniker": "PrintServiceString.cs",
-              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula149.0\\PrintServiceString.cs*",
-              "RelativeToolTip": "PrintServiceString.cs*",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula149.0\\PrintServiceString.cs",
+              "RelativeToolTip": "PrintServiceString.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA2wAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T19:30:06.642Z",
@@ -43,8 +47,8 @@
               "Title": "PrintService.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula149.0\\PrintService.cs",
               "RelativeDocumentMoniker": "PrintService.cs",
-              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula149.0\\PrintService.cs*",
-              "RelativeToolTip": "PrintService.cs*",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula149.0\\PrintService.cs",
+              "RelativeToolTip": "PrintService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T19:29:49.751Z",
@@ -58,14 +62,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula149.0\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T19:27:41.821Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
