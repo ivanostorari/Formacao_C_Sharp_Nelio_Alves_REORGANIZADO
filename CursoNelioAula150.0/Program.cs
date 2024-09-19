@@ -19,6 +19,7 @@ namespace CursoNelioAula1500
             for (int i = 0; i < n; i++)
             {
                 string[] vect = Console.ReadLine().Split(',');
+                string name = vect[0];  
                 double price = double.Parse(vect[1], CultureInfo.InvariantCulture);
                 list.Add(new Product(vect[0], price));
             }
