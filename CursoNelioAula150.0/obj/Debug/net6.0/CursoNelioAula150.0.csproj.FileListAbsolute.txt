@@ -3,3 +3,13 @@ C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Princip
 C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\obj\Debug\net6.0\CursoNelioAula150.0.AssemblyInfo.cs
 C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\obj\Debug\net6.0\CursoNelioAula150.0.csproj.CoreCompileInputs.cache
 C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\obj\Debug\net6.0\CursoNelioAula150.0.sourcelink.json
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\bin\Debug\net6.0\CursoNelioAula150.0.exe
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\bin\Debug\net6.0\CursoNelioAula150.0.deps.json
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\bin\Debug\net6.0\CursoNelioAula150.0.runtimeconfig.json
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\bin\Debug\net6.0\CursoNelioAula150.0.dll
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\bin\Debug\net6.0\CursoNelioAula150.0.pdb
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\obj\Debug\net6.0\CursoNelioAula150.0.dll
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\obj\Debug\net6.0\refint\CursoNelioAula150.0.dll
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\obj\Debug\net6.0\CursoNelioAula150.0.pdb
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\obj\Debug\net6.0\CursoNelioAula150.0.genruntimeconfig.cache
+C:\Users\ivan.ostorari\Desktop\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\Principal\CursoNelioAula150.0\obj\Debug\net6.0\ref\CursoNelioAula150.0.dll
