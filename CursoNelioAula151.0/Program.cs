@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using CursoNelioAula1510.Entities;
 
 namespace CursoNelioAula1510
 {
@@ -8,10 +8,11 @@ namespace CursoNelioAula1510
     {
         static void Main(string[] args)
         {
-            string a = "Maria";
-            string b = "Alex";
+            Client a = new Client { Name = "Maria", Email = "maria@gamil.com" };
+            Client b = new Client { Name = "Alex", Email = "alex@gamil.com" };
 
-
+            Console.WriteLine(a.Equals(b));
+            Console.WriteLine(a == b);
             Console.WriteLine(a.GetHashCode());
             Console.WriteLine(b.GetHashCode());
         }
