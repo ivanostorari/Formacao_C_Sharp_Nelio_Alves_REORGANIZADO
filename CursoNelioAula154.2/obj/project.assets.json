@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula154.1\\CursoNelioAula154.1.csproj",
-      "projectName": "CursoNelioAula154.1",
-      "projectPath": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula154.1\\CursoNelioAula154.1.csproj",
+      "projectUniqueName": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula154.2\\CursoNelioAula154.2.csproj",
+      "projectName": "CursoNelioAula154.2",
+      "projectPath": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula154.2\\CursoNelioAula154.2.csproj",
       "packagesPath": "C:\\Users\\ivan.ostorari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula154.1\\obj\\",
+      "outputPath": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula154.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivan.ostorari\\AppData\\Roaming\\NuGet\\NuGet.Config",
