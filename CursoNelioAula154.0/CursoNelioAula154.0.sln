@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoNelioAula154.0", "CursoNelioAula154.0.csproj", "{A5DB7DFD-A083-4779-BD9F-AFE3CEA4658E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoNelioAula154.0", "CursoNelioAula154.0.csproj", "{086BBF51-BFA9-4465-A225-C07EB1E7DD9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A5DB7DFD-A083-4779-BD9F-AFE3CEA4658E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A5DB7DFD-A083-4779-BD9F-AFE3CEA4658E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A5DB7DFD-A083-4779-BD9F-AFE3CEA4658E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A5DB7DFD-A083-4779-BD9F-AFE3CEA4658E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086BBF51-BFA9-4465-A225-C07EB1E7DD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086BBF51-BFA9-4465-A225-C07EB1E7DD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086BBF51-BFA9-4465-A225-C07EB1E7DD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086BBF51-BFA9-4465-A225-C07EB1E7DD9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AD5E5A16-DA65-4E68-A213-5F532E1A06DA}
+		SolutionGuid = {E9EA532F-E881-4772-8F1F-D53A219B1AA1}
 	EndGlobalSection
 EndGlobal
