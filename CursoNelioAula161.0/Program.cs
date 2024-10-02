@@ -1,10 +1,21 @@
-﻿namespace CursoNelioAula1610
+﻿using System;
+using System.Globalization;
+
+namespace CursoNelioAula1610
 {
-    internal class Program
+    static class DateTimeExtensions
     {
-        static void Main(string[] args)
+        public static string ElapsedTime(this DateTime thisObj)
         {
-            Console.WriteLine("Hello, World!");
+            TimeSpan duration = DateTime.Now.Subtract(thisObj);
+            if (duration.TotalHours < 24.0)
+            {
+                return duration.TotalHours.ToString("F1", CultureInfo.InvariantCulture) + " hours";
+            }
+            else
+            {
+                return duration.TotalDays.ToString("F1", CultureInfo.InvariantCulture) + " days";
+            }
         }
     }
 }
