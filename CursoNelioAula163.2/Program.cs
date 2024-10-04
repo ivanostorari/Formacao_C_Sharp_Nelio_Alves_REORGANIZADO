@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using CursoNelioAula1631.Entities;
+using CursoNelioAula1632.Entities;
 
-namespace CursoNelioAula1631
+namespace CursoNelioAula1632
 {
     class Program
     {
