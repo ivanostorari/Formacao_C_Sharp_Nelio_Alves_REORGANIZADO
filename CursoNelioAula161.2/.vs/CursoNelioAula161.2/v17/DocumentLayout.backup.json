@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{262F3762-93CA-4934-840A-C0BADF820AB0}|CursoNelioAula161.2.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_nelio_alves_reorganizado\\principal\\cursonelioaula161.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{262F3762-93CA-4934-840A-C0BADF820AB0}|CursoNelioAula161.2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262F3762-93CA-4934-840A-C0BADF820AB0}|CursoNelioAula161.2.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_nelio_alves_reorganizado\\principal\\cursonelioaula161.2\\extensions\\datetimeextesions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262F3762-93CA-4934-840A-C0BADF820AB0}|CursoNelioAula161.2.csproj|solutionrelative:extensions\\datetimeextesions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262F3762-93CA-4934-840A-C0BADF820AB0}|CursoNelioAula161.2.csproj|c:\\users\\ivan.ostorari\\desktop\\formacao_c_sharp_nelio_alves_reorganizado\\principal\\cursonelioaula161.2\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262F3762-93CA-4934-840A-C0BADF820AB0}|CursoNelioAula161.2.csproj|solutionrelative:extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 563,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateTimeExtesions.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula161.2\\Extensions\\DateTimeExtesions.cs",
+              "RelativeDocumentMoniker": "Extensions\\DateTimeExtesions.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula161.2\\Extensions\\DateTimeExtesions.cs",
+              "RelativeToolTip": "Extensions\\DateTimeExtesions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA7wAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:11:37.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula161.2\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula161.2\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:12:11.557Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +66,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\Principal\\CursoNelioAula161.2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T17:55:39.938Z",
               "EditorCaption": ""
