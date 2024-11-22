@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using CursoNelioAula1633.Entities;
+using CursoNelioAula1632.Entities;
 
 namespace CursoNelioAula1632
 {
