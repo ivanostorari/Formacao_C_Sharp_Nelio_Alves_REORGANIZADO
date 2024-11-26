@@ -15,17 +15,16 @@ namespace CursoNelioAula1671
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("HD Case", 80.90));
 
-
-            list.RemoveAll(ProductTest);
-            foreach (Product p in list)
+            list.ForEach(UpdatePrice);
+            foreach (Product p in list) 
             {
                 Console.WriteLine(p);
             }
         }
 
-        public static bool ProductTest(Product p)
+        static void UpdatePrice(Product p) 
         {
-            return p.Price >= 100.0;
+            p.Price += p.Price * 0.1;
         }
     }
 }
