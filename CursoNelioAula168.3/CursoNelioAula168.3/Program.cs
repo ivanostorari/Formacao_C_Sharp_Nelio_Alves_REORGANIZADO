@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using CursoNelioAula1682.Entities;
+using CursoNelioAula1683.Entities;
 
-namespace CursoNelioAula1682 
+namespace CursoNelioAula1683
 {
     class Program
     {
@@ -17,16 +17,11 @@ namespace CursoNelioAula1682
 
             Action<Product> act = p => { p.Price += p.Price * 0.1; };
 
-            list.ForEach(act);
+            list.ForEach(p => { p.Price += p.Price * 0.1; }); // in line 
             foreach (Product p in list)
             {
                 Console.WriteLine(p);
             }
-        }
-
-        static void UpdatePrice(Product p)
-        {
-            p.Price += p.Price * 0.1;
         }
     }
 }
