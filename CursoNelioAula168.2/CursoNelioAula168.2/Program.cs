@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using CursoNelioAula1682.Entities;
 
-namespace CursoNelioAula1682
+namespace CursoNelioAula1682 
+{
     class Program
     {
         static void Main(string[] args)
