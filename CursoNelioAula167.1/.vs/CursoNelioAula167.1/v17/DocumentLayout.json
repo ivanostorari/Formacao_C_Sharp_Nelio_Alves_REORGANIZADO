@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan.ostorari\\Desktop\\PROJETOS\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\CursoNelioAula167.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82A7D375-41D9-4FF0-B651-78F5D333C4C4}|CursoNelioAula167.1\\CursoNelioAula167.1.csproj|c:\\users\\ivan.ostorari\\desktop\\projetos\\formacao_c_sharp_nelio_alves_reorganizado\\cursonelioaula167.1\\cursonelioaula167.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A7D375-41D9-4FF0-B651-78F5D333C4C4}|CursoNelioAula167.1\\CursoNelioAula167.1.csproj|solutionrelative:cursonelioaula167.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A7D375-41D9-4FF0-B651-78F5D333C4C4}|CursoNelioAula167.1\\CursoNelioAula167.1.csproj|c:\\users\\ivan.ostorari\\desktop\\projetos\\formacao_c_sharp_nelio_alves_reorganizado\\cursonelioaula167.1\\cursonelioaula167.1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A7D375-41D9-4FF0-B651-78F5D333C4C4}|CursoNelioAula167.1\\CursoNelioAula167.1.csproj|solutionrelative:cursonelioaula167.1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 563,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\PROJETOS\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\CursoNelioAula167.1\\CursoNelioAula167.1\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CursoNelioAula167.1\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\PROJETOS\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\CursoNelioAula167.1\\CursoNelioAula167.1\\Entities\\Product.cs",
+              "RelativeToolTip": "CursoNelioAula167.1\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:34:57.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\PROJETOS\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\CursoNelioAula167.1\\CursoNelioAula167.1\\Program.cs",
+              "RelativeDocumentMoniker": "CursoNelioAula167.1\\Program.cs",
+              "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\PROJETOS\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\CursoNelioAula167.1\\CursoNelioAula167.1\\Program.cs",
+              "RelativeToolTip": "CursoNelioAula167.1\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:34:18.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
