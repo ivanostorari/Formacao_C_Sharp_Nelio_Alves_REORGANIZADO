@@ -15,6 +15,8 @@ namespace CursoNelioAula1681
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("HD Case", 80.90));
 
+            Action<Product> act = UpdatePrice;
+
             list.ForEach(UpdatePrice);
             foreach (Product p in list)
             {
