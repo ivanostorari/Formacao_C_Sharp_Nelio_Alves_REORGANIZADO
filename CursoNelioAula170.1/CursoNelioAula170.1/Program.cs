@@ -11,7 +11,7 @@ namespace CursoNelioAula1701
             int[] numbers = new int[] { 2, 3, 4, 5 };
 
             //Define the query expression/ -> Definir a consulta dos dados, e escrever a expressão com Linq.
-            var result = numbers
+            IEnumerable<int> result = numbers
                 .Where(x => x % 2 == 0)
                 .Select(x => x * 10);
 
