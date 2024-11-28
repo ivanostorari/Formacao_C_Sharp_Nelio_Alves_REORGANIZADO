@@ -21,9 +21,9 @@ namespace CursoNelioAula1720
 
         static void Main(string[] args)
         {
-            Category C1 = new Category() { Id = 1, Name = "Tools", Tier = 2  };
-            Category C2 = new Category() { Id = 2, Name = "Computers", Tier = 1 };
-            Category C3 = new Category() { Id = 3, Name = "Electronics", Tier = 1 };
+            Category c1 = new Category() { Id = 1, Name = "Tools", Tier = 2  };
+            Category c2 = new Category() { Id = 2, Name = "Computers", Tier = 1 };
+            Category c3 = new Category() { Id = 3, Name = "Electronics", Tier = 1 };
 
 
             List<Product> products = new List<Product>()
@@ -40,7 +40,7 @@ namespace CursoNelioAula1720
                 new Product() { Id = 10, Name = "Sound Bar", Price = 700.0, Category = c3 },
                 new Product() { Id = 11, Name = "Level", Price = 70.0, Category = c1 }
             };
-
+            // <where> para filtrar uma lista.
             var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900.0);
             Print("TIER 1 ANO PRICE < 900.0:", r1);
         }

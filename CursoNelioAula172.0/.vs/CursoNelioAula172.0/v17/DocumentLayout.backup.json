@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ivan.ostorari\\Desktop\\PROJETOS\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\CursoNelioAula172.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3359C3D7-C038-4BA0-9DBA-7087BCE1A5BB}|CursoNelioAula172.0\\CursoNelioAula172.0.csproj|c:\\users\\ivan.ostorari\\desktop\\projetos\\formacao_c_sharp_nelio_alves_reorganizado\\cursonelioaula172.0\\cursonelioaula172.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3359C3D7-C038-4BA0-9DBA-7087BCE1A5BB}|CursoNelioAula172.0\\CursoNelioAula172.0.csproj|solutionrelative:cursonelioaula172.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3359C3D7-C038-4BA0-9DBA-7087BCE1A5BB}|CursoNelioAula172.0\\CursoNelioAula172.0.csproj|c:\\users\\ivan.ostorari\\desktop\\projetos\\formacao_c_sharp_nelio_alves_reorganizado\\cursonelioaula172.0\\cursonelioaula172.0\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3359C3D7-C038-4BA0-9DBA-7087BCE1A5BB}|CursoNelioAula172.0\\CursoNelioAula172.0.csproj|solutionrelative:cursonelioaula172.0\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3359C3D7-C038-4BA0-9DBA-7087BCE1A5BB}|CursoNelioAula172.0\\CursoNelioAula172.0.csproj|c:\\users\\ivan.ostorari\\desktop\\projetos\\formacao_c_sharp_nelio_alves_reorganizado\\cursonelioaula172.0\\cursonelioaula172.0\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3359C3D7-C038-4BA0-9DBA-7087BCE1A5BB}|CursoNelioAula172.0\\CursoNelioAula172.0.csproj|solutionrelative:cursonelioaula172.0\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3359C3D7-C038-4BA0-9DBA-7087BCE1A5BB}|CursoNelioAula172.0\\CursoNelioAula172.0.csproj|c:\\users\\ivan.ostorari\\desktop\\projetos\\formacao_c_sharp_nelio_alves_reorganizado\\cursonelioaula172.0\\cursonelioaula172.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3359C3D7-C038-4BA0-9DBA-7087BCE1A5BB}|CursoNelioAula172.0\\CursoNelioAula172.0.csproj|solutionrelative:cursonelioaula172.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 563,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\PROJETOS\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\CursoNelioAula172.0\\CursoNelioAula172.0\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "CursoNelioAula172.0\\Entities\\Category.cs",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\PROJETOS\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\CursoNelioAula172.0\\CursoNelioAula172.0\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "CursoNelioAula172.0\\Entities\\Product.cs",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ivan.ostorari\\Desktop\\PROJETOS\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\CursoNelioAula172.0\\CursoNelioAula172.0\\Program.cs",
               "RelativeDocumentMoniker": "CursoNelioAula172.0\\Program.cs",
               "ToolTip": "C:\\Users\\ivan.ostorari\\Desktop\\PROJETOS\\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\\CursoNelioAula172.0\\CursoNelioAula172.0\\Program.cs",
               "RelativeToolTip": "CursoNelioAula172.0\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T12:24:43.836Z",
               "EditorCaption": ""

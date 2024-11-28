@@ -3,3 +3,13 @@ C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZAD
 C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\obj\Debug\net6.0\CursoNelioAula172.0.AssemblyInfo.cs
 C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\obj\Debug\net6.0\CursoNelioAula172.0.csproj.CoreCompileInputs.cache
 C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\obj\Debug\net6.0\CursoNelioAula172.0.sourcelink.json
+C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\bin\Debug\net6.0\CursoNelioAula172.0.exe
+C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\bin\Debug\net6.0\CursoNelioAula172.0.deps.json
+C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\bin\Debug\net6.0\CursoNelioAula172.0.runtimeconfig.json
+C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\bin\Debug\net6.0\CursoNelioAula172.0.dll
+C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\bin\Debug\net6.0\CursoNelioAula172.0.pdb
+C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\obj\Debug\net6.0\CursoNelioAula172.0.dll
+C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\obj\Debug\net6.0\refint\CursoNelioAula172.0.dll
+C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\obj\Debug\net6.0\CursoNelioAula172.0.pdb
+C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\obj\Debug\net6.0\CursoNelioAula172.0.genruntimeconfig.cache
+C:\Users\ivan.ostorari\Desktop\PROJETOS\Formacao_C_Sharp_Nelio_Alves_REORGANIZADO\CursoNelioAula172.0\CursoNelioAula172.0\obj\Debug\net6.0\ref\CursoNelioAula172.0.dll
