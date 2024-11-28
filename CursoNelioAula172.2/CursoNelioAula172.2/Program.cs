@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using CursoNelioAula1722.Entities;
 
 
-namespace CursoNelioAula1720
+namespace CursoNelioAula1722
 {
     class Program
     {
